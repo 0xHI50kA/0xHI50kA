@@ -1,52 +1,39 @@
 # Hi — I'm 0xHI50kA 👋
 
 <p align="center">
-  <img src="./assets/moonalisa.jpg" alt="Profile Image" width="150" style="border-radius: 12px;" />
+  <img src="./assets/moonalisa.jpg" alt="Profile Image" width="180" style="border-radius: 14px; box-shadow: 0 0 20px #00ff99;" />
 </p>
 
-## 🚀 About Me
-- I build, learn, and explore technology.
-- Passionate about open-source and cybersecurity.
-- Continuously experimenting with new ideas.
+> _“The Matrix isn’t just a movie — it’s a mindset.”_
 
 ---
 
-## 🛠️ Tech Stack & Skills
-- **Languages:** Java, C++, Python, PHP, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Laravel, Angular, React, Node.js  
-- **Databases:** MySQL, MongoDB  
-- **Other Skills:** Web design, database management, multimedia editing (Adobe Photoshop, Blender)
+## 💀 About Me
 
----
++ I craft, break, and rebuild technology.
++ Open-source enthusiast & cybersecurity explorer.
++ Constantly experimenting with code, exploits, and creative chaos.
 
-## 📊 GitHub Stats
+# Languages
+> Java | C++ | Python | PHP | JavaScript | HTML | CSS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xHI50kA&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=0xHI50kA&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+# Frameworks & Tools
+> Laravel | Angular | React | Node.js
 
----
+# Databases
+> MySQL | MongoDB
 
-## 🎯 Goals for 2025
-- Become a certified **Ethical Hacker**.
-- Contribute to **open-source cybersecurity tools**.
-- Build more **AI-driven applications**.
+# Other Skills
+> Web Design | DB Management | Multimedia Editing (Photoshop, Blender)
 
----
 
-## 🌐 Connect with Me
-- [LinkedIn](#)  
-- [Portfolio](#)  
-- [Email Me](mailto:your-email@example.com)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xHI50kA&layout=compact&theme=matrix" alt="Top Languages" /> <br> <img src="https://github-readme-stats.vercel.app/api?username=0xHI50kA&show_icons=true&theme=matrix" alt="GitHub Stats" /> </p>
 
-<!--
-## 🎮 My Tetris Contributions
-![Tetris contributions](./assets/profile-tetris.svg)
--->
++ [ ] Earn CEH (Certified Ethical Hacker) Certification
++ [ ] Contribute to Open-Source Cybersecurity Projects
++ [ ] Launch an AI-Powered Application for Security/Automation
 
----
 
-> _“Sync your passion with purpose — and create something remarkable.”_
-
+[LinkedIn]  -> https://linkedin.com/in/yourprofile
+[Portfolio] -> https://yourportfolio.com
+[Email]     -> your-email@example.com
