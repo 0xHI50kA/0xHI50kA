@@ -24,35 +24,52 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
+  <!-- Languages -->
   <div style="max-width: 220px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Languages</h3>
-    <p style="color: #00ff99; font-family: 'Courier New', monospace;">
-      Java | C++ | Python | PHP | JavaScript | HTML | CSS
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" title="C++"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" title="PHP"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS"/>
     </p>
   </div>
 
+  <!-- Frameworks & Tools -->
   <div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Frameworks & Tools</h3>
-    <p style="color: #00ff99; font-family: 'Courier New', monospace;">
-      Laravel | Angular | React | Node.js
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" title="Laravel"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" title="Angular"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
     </p>
   </div>
 
+  <!-- Databases -->
   <div style="max-width: 220px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Databases</h3>
-    <p style="color: #00ff99; font-family: 'Courier New', monospace;">
-      MySQL | MongoDB
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
     </p>
   </div>
 
+  <!-- Other Skills -->
   <div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Other Skills</h3>
-    <p style="color: #00ff99; font-family: 'Courier New', monospace;">
-      Web Design | DB Management | Multimedia Editing (Photoshop, Blender)
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" title="Photoshop"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="30" title="Blender"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma"/>
     </p>
   </div>
 
 </div>
+
 
 ---
 
