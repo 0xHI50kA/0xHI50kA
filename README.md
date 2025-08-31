@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65" />
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+  <img src="./php.svg" alt="PHP" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
 </div>
@@ -75,9 +75,7 @@
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Other Skills</h3>
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" 
-     alt="Blender" width="90" height="90" 
-     style="animation:spin 6s linear infinite; display:inline-block;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
 </div>
 
