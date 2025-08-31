@@ -52,10 +52,20 @@
   <!-- Databases -->
   <div style="max-width: 220px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Databases</h3>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
-    </p>
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <!-- MySQL (TechStack) -->
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+
+  <!-- Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="65" height="65" />
+</div>
+
   </div>
 
   <!-- Other Skills -->
