@@ -40,9 +40,9 @@
   <!-- Frameworks & Tools -->
   <div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Frameworks & Tools</h3>
+  <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="./node.svg" alt="Node.js" width="105" height="105" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65" />
-  <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
