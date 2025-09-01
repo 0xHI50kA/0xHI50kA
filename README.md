@@ -44,7 +44,7 @@
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65" />
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+  <img src="./node.svg"alt="Node.js" width="65" height="65" />
   <img src="./php.svg" alt="PHP" width="105" height="105">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
