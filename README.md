@@ -28,6 +28,7 @@
   <div style="max-width: 220px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Languages</h3>
    <div style="display: flex; gap: 10px; align-items: flex-start;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shell/shell-original.svg" alt="Shell" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
