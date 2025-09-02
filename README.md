@@ -16,10 +16,12 @@
   <img src="https://img.shields.io/badge/About%20Me-%2300FF99?style=for-the-badge&logo=shield&logoColor=white" alt="About Me Shield">
 </p>
 
-  <p align="center" style="font-family: 'Courier New', monospace; color: #b82c95ff; font-size: 16px;">
-    + I craft, break, and rebuild technology.<br>
-    + Open-source enthusiast & cybersecurity explorer.<br>
-    + Constantly experimenting with code, exploits, and creative chaos.
+  <p align="left">
+    <strong>
+      + I craft, break, and rebuild technology.<br>
+      + Open-source enthusiast & cybersecurity explorer.<br>
+      + Constantly experimenting with code, exploits, and creative chaos.
+    </strong>
   </p>
 
 </div>
