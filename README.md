@@ -12,14 +12,10 @@
 <hr>
 
 
-## 💀 About Me
+## ![About Me](https://img.shields.io/badge/About%20Me-%2300FF99?style=for-the-badge&logo=shield&logoColor=black)
 
-<div align="center" style="max-width: 500px; margin: 20px auto; padding: 20px; border: 2px solid #00ff99; border-radius: 12px; background: #000; box-shadow: 0 0 18px #00ff99;">
-  <p style="color: #00ff99; font-family: 'Courier New', monospace; text-shadow: 0 0 12px #00ff99;">
-    + I craft, break, and rebuild technology.<br>
-    + Open-source enthusiast & cybersecurity explorer.<br>
-    + Constantly experimenting with code, exploits, and creative chaos.
-  </p>
+<div align="center" style="max-width: 500px; margin: 20px auto; padding: 20px; border: 2px solid #00ff99; border-radius: 12px; background: #000; box-shadow: 0 0 18px #00ff99;">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=I+craft,+break,+and+rebuild+technology.;Open-source+enthusiast+%26+cybersecurity+explorer.;Constantly+experimenting+with+code,+exploits,+and+creative+chaos.)](https://git.io/typing-svg)
+
 </div>
 
 ---
