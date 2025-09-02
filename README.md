@@ -1,5 +1,3 @@
-# Hi — I'm 0xHI50kA 👋
-
 <p align="center">
   <img src="./assets/moonalisa.jpg" alt="Profile Image" width="180" style="border-radius: 14px; box-shadow: 0 0 20px #00ff99;" />
 </p>
@@ -7,6 +5,14 @@
 > _“The Matrix isn’t just a movie — it’s a mindset.”_
 
 ---
+
+<hr>
+<p align="center">
+  <a href="https://github.com/hisokamorrow"><img
+      src="https://readme-typing-svg.herokuapp.com?lines=Raven%20Jay;Web%20Developer;Passionate%20about%20Coding;Always%20Learning&font=Pacifico&center=true&width=650&height=120&color=00FF99&vCenter=true&size=45"></a>
+</p>
+<hr>
+
 
 ## 💀 About Me
 
@@ -58,15 +64,15 @@
   <h3 style="color: #00ff99; font-family: 'Courier New', monospace; text-align: center;">Databases</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <!-- MySQL -->
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
     <!-- MongoDB -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
     <!-- PostgreSQL -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
     <!-- MariaDB -->
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="55" height="55" />
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="65" height="65" />
     <!-- Oracle -->
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="55" height="55" />
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="65" height="65" />
   </div>
 </div>
 
