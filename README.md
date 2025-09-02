@@ -12,9 +12,30 @@
 <hr>
 
 
-## ![About Me](https://img.shields.io/badge/About%20Me-%2300FF99?style=for-the-badge&logo=shield&logoColor=black)
 
-<div align="center" style="max-width: 500px; margin: 20px auto; padding: 20px; border: 2px solid #00ff99; border-radius: 12px; background: #000; box-shadow: 0 0 18px #00ff99;">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=I+craft,+break,+and+rebuild+technology.;Open-source+enthusiast+%26+cybersecurity+explorer.;Constantly+experimenting+with+code,+exploits,+and+creative+chaos.)](https://git.io/typing-svg)
+
+<div align="center" style="max-width: 500px; margin: 20px auto; padding: 20px; border: 2px solid #00ff99; border-radius: 12px; background: #000; box-shadow: 0 0 18px #00ff99;">
+<p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-%2300FF99?style=for-the-badge&logo=shield&logoColor=white" alt="About Me Shield">
+</p>
+
+<p align="center">
+  <a href="https://github.com/hisokamorrow">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+craft%2C+break%2C+and+rebuild+technology.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hisokamorrow">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Open-source+enthusiast+%26+cybersecurity+explorer.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hisokamorrow">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Constantly+experimenting+with+code%2C+exploits%2C+and+creative+chaos.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
+  </a>
+</p>
 
 </div>
 
