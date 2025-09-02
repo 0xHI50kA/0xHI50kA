@@ -1,24 +1,41 @@
-# Hi — I'm 0xHI50kA 👋
-
 <p align="center">
   <img src="./assets/moonalisa.jpg" alt="Profile Image" width="180" style="border-radius: 14px; box-shadow: 0 0 20px #00ff99;" />
 </p>
 
 > _“The Matrix isn’t just a movie — it’s a mindset.”_
 
----
-
-## 💀 About Me
+<hr>
+<p align="center">
+  <a href="https://github.com/0xHI50kA"><img
+      src="https://readme-typing-svg.herokuapp.com?lines=Raven%20Jay;Web%20Developer;Passionate%20about%20Coding;Always%20Learning&font=Pacifico&center=true&width=650&height=120&color=00FF99&vCenter=true&size=45"></a>
+</p>
+<hr>
 
 <div align="center" style="max-width: 500px; margin: 20px auto; padding: 20px; border: 2px solid #00ff99; border-radius: 12px; background: #000; box-shadow: 0 0 18px #00ff99;">
-  <p style="color: #00ff99; font-family: 'Courier New', monospace; text-shadow: 0 0 12px #00ff99;">
-    + I craft, break, and rebuild technology.<br>
-    + Open-source enthusiast & cybersecurity explorer.<br>
-    + Constantly experimenting with code, exploits, and creative chaos.
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-%2300FF99?style=for-the-badge&logo=shield&logoColor=white" alt="About Me Shield">
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xHI50kA">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+craft%2C+break%2C+and+rebuild+technology.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xHI50kA">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Open-source+enthusiast+%26+cybersecurity+explorer.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xHI50kA">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Constantly+experimenting+with+code%2C+exploits%2C+and+creative+chaos.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
+  </a>
+</p>
+
 </div>
 
----
 
 ## 🛠 Skills & Tech
 
