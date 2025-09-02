@@ -28,9 +28,6 @@
   <div style="max-width: 220px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Programming & Markup Languages</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="65" height="65" />
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="65" height="65" />
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
@@ -39,18 +36,23 @@
     </div>
   </div>
 
-  <!-- Frameworks & Tools -->
-  <div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
-    <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Frameworks & Tools</h3>
-  <div style="display: flex; gap: 10px; align-items: flex-start;">
-  
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65" />
-  <img src="./node.svg" alt="Node.js" width="105" height="105" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-</div>
+<!-- Frameworks & Tools -->
+<div style="max-width: 350px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
+  <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Frameworks, Libraries & Tools</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
+    <img src="https://img.icons8.com/fluency/96/tkinter.png" alt="Tkinter" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="65" height="65" />
   </div>
+</div>
 
   <!-- Databases -->
   <div style="max-width: 220px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
@@ -78,6 +80,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="65" height="65" />
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3" width="65" height="65" />
 </div>
 
   </div>
