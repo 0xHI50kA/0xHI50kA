@@ -16,23 +16,11 @@
   <img src="https://img.shields.io/badge/About%20Me-%2300FF99?style=for-the-badge&logo=shield&logoColor=white" alt="About Me Shield">
 </p>
 
-<p align="center">
-  <a href="https://github.com/0xHI50kA">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I+craft%2C+break%2C+and+rebuild+technology.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/0xHI50kA">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Open-source+enthusiast+%26+cybersecurity+explorer.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/0xHI50kA">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Constantly+experimenting+with+code%2C+exploits%2C+and+creative+chaos.&font=Pacifico&center=true&width=650&height=120&color=808080&vCenter=true&size=30">
-  </a>
-</p>
+  <p align="center" style="font-family: 'Courier New', monospace; color: #b82c95ff; font-size: 16px;">
+    + I craft, break, and rebuild technology.<br>
+    + Open-source enthusiast & cybersecurity explorer.<br>
+    + Constantly experimenting with code, exploits, and creative chaos.
+  </p>
 
 </div>
 
