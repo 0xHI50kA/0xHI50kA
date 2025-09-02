@@ -4,8 +4,6 @@
 
 > _“The Matrix isn’t just a movie — it’s a mindset.”_
 
----
-
 <hr>
 <p align="center">
   <a href="https://github.com/hisokamorrow"><img
