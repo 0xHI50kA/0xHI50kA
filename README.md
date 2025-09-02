@@ -54,23 +54,22 @@
 </div>
 
   <!-- Databases -->
-  <div style="max-width: 220px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
-    <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Databases</h3>
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <!-- MySQL (TechStack) -->
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
-
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
-
-  <!-- Oracle -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="65" height="65" />
+<div style="max-width: 240px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
+  <h3 style="color: #00ff99; font-family: 'Courier New', monospace; text-align: center;">Databases</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <!-- MySQL -->
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+    <!-- MongoDB -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
+    <!-- PostgreSQL -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
+    <!-- MariaDB -->
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="55" height="55" />
+    <!-- Oracle -->
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="55" height="55" />
+  </div>
 </div>
 
-  </div>
 
   <!-- Other Skills -->
   <div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
@@ -82,6 +81,7 @@
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="65" height="65" />
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="65" height="65" />
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3" width="65" height="65" />
+
 </div>
 
   </div>
