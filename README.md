@@ -7,7 +7,7 @@
 <hr>
 <p align="center">
   <a href="https://github.com/0xHI50kA"><img
-      src="https://readme-typing-svg.herokuapp.com?lines=Raven%20Jay;Web%20Developer;Passionate%20about%20Coding;Always%20Learning&font=Pacifico&center=true&width=650&height=120&color=00FF99&vCenter=true&size=45"></a>
+      src="https://readme-typing-svg.herokuapp.com?lines=Im%20Raven%20Jay;Web%20Developer;Passionate%20about%20Coding;Always%20Learning&font=Pacifico&center=true&width=650&height=120&color=00FF99&vCenter=true&size=45"></a>
 </p>
 <hr>
 
