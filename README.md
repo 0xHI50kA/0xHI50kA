@@ -1,10 +1,3 @@
-
-<p align="center">
-  <a href="https://github.com/0xHI50kA"><img
-      src="https://readme-typing-svg.herokuapp.com?lines=Im%20Raven%20Jay;Web%20Developer;Passionate%20about%20Coding;Always%20Learning&font=Pacifico&center=true&width=650&height=120&color=00FF99&vCenter=true&size=45"></a>
-</p>
-<hr>
-
 <p align="center">
   <img src="./assets/moonalisa.jpg" alt="Profile Image" width="180" style="border-radius: 50%; display: block; margin: 0 auto;" />
 </p>
@@ -14,6 +7,13 @@
 </p>
 
 <hr>
+
+<p align="center">
+  <a href="https://github.com/0xHI50kA"><img
+      src="https://readme-typing-svg.herokuapp.com?lines=Im%20Raven%20Jay;Web%20Developer;Passionate%20about%20Coding;Always%20Learning&font=Pacifico&center=true&width=650&height=120&color=00FF99&vCenter=true&size=45"></a>
+</p>
+<hr>
+
 
 <div align="center" style="max-width: 500px; margin: 20px auto; padding: 20px; border: 2px solid #00ff99; border-radius: 12px; background: #000; box-shadow: 0 0 18px #00ff99;">
   <p align="center">
