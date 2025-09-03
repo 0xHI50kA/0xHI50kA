@@ -27,7 +27,10 @@
 </div>
 
 
-## 🛠 Skills & Tech
+<!-- ## 🛠 Skills & Tech -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Skills%20&%20Tech-%2300FFFF?style=for-the-badge&logo=gear&logoColor=white" alt="Skills & Tech Badge">
+</p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
