@@ -12,20 +12,24 @@
 <hr>
 
 <div align="center" style="max-width: 500px; margin: 20px auto; padding: 20px; border: 2px solid #00ff99; border-radius: 12px; background: #000; box-shadow: 0 0 18px #00ff99;">
-<p align="center">
-  <img src="https://img.shields.io/badge/About%20Me-%2300FF99?style=for-the-badge&logo=shield&logoColor=white" alt="About Me Shield">
-</p>
-
-  <p align="left">
-    <strong>
-      + I craft, break, and rebuild technology.<br>
-      + Open-source enthusiast & cybersecurity explorer.<br>
-      + Constantly experimenting with code, exploits, and creative chaos.
-    </strong>
+  <p align="center">
+    <img src="https://img.shields.io/badge/About%20Me-%2300FF99?style=for-the-badge&logo=shield&logoColor=white" alt="About Me Shield">
   </p>
 
+  <p align="left" style="font-family: 'Courier New', monospace; color: #00FF99; font-size: 15px;">
+    <strong>
+      ▸ Passionate about clean and efficient coding practices.<br>
+      ▸ Enjoy watching anime for creativity and inspiration.<br>
+      ▸ Building responsive and user-friendly web applications.<br>
+      ▸ Exploring new web technologies to stay ahead of trends.<br>
+      ▸ Open-source enthusiast & cybersecurity explorer.<br>
+      ▸ Constantly experimenting with code, exploits, and creative chaos.<br>
+      ▸ Engage in CTF challenges occasionally to practice real-world hacking scenarios.
+    </strong>
+  </p>
 </div>
 
+<hr>
 
 <!-- ## 🛠 Skills & Tech -->
 <p align="center">
@@ -120,7 +124,7 @@
 </div>
 
 ---
-
+<!-- 
 ## 🎯 Future Objectives
 
 <div align="center" style="max-width: 500px; margin: 20px auto; padding: 20px; border: 2px solid #00ff99; border-radius: 12px; background: #000; box-shadow: 0 0 18px #00ff99;">
@@ -141,4 +145,4 @@
     [Portfolio](https://yourportfolio.com)<br>
     [Email](mailto:your-email@example.com)
   </p>
-</div>
+</div> -->
