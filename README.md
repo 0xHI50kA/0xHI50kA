@@ -88,6 +88,20 @@
   </div>
 </div>
 
+<!-- Operating System, Platforms, and Networks -->
+<div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
+  <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Operating System, Platforms, & Networks</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacOS" width="65" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="65" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="Debian" width="65" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" width="65" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="65" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="65" height="65" />
+  </div>
+</div>
 
   <!-- Other Skills -->
   <div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
