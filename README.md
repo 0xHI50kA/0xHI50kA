@@ -115,28 +115,34 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" alt="Sublime Text" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" alt="Code::Blocks" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="65" height="65" />
   </div>
 </div>
 
 
-  <!-- Other Skills -->
-  <div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
-    <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Other Skills</h3>
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="65" height="65" />
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="65" height="65" />
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3" width="65" height="65" />
-
-</div>
+<!-- Additional Tools -->
+<div style="max-width: 300px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
+  <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Additional Tools</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <!-- Design & Creative -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
+    <!-- Web Essentials -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+    <!-- Scripting & Terminal -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="65" height="65" />
+    <!-- Networking & CTF -->
+    <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="HackTheBox" width="65" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" alt="TryHackMe" width="65" height="65" />
+    <!-- Platforms -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="65" height="65" />
 
   </div>
+</div>
+
 
 </div>
 
