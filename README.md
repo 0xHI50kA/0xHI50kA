@@ -105,6 +105,22 @@
   </div>
 </div>
 
+<!-- IDEs & Code Editors -->
+<div style="max-width: 220px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
+  <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">IDEs & Code Editors</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/intellij-icon.svg" alt="IntelliJ IDEA" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/pycharm-icon.svg" alt="PyCharm" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/eclipse-icon.svg" alt="Eclipse" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/sublime-icon.svg" alt="Sublime Text" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" alt="Code::Blocks" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="65" height="65" />
+  </div>
+</div>
+
   <!-- Other Skills -->
   <div style="max-width: 220px; padding: 15px; border: 2px dashed #00ff99; border-radius: 10px; background: radial-gradient(circle, rgba(0, 255, 153, 0.05), #000); box-shadow: 0 0 15px #00ff99;">
     <h3 style="color: #00ff99; font-family: 'Courier New', monospace;">Other Skills</h3>
