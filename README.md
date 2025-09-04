@@ -61,13 +61,13 @@
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
   </div>
 </div>
 
@@ -75,12 +75,12 @@
 <div style="max-width: 240px; padding: 15px; border: 2px solid #00ff99; border-radius: 10px; background: #000; box-shadow: 0 0 15px #00ff99;">
   <h3 style="color: #00ff99; font-family: 'Courier New', monospace; text-align: center;">Databases</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <!-- MySQL -->
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
     <!-- MongoDB -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
     <!-- PostgreSQL -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+    <!-- MySQL -->
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
     <!-- MariaDB -->
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="65" height="65" />
     <!-- Oracle -->
@@ -95,9 +95,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="65" height="65" />
     <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" width="65" height="65" />
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="65" height="65" />
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="65" height="65" />
@@ -135,8 +134,8 @@
     <!-- Scripting & Terminal -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="65" height="65" />
     <!-- Networking & CTF -->
-    <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="HackTheBox" width="65" height="65" />
-    <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" alt="TryHackMe" width="65" height="65" />
+    <!-- <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="HackTheBox" width="65" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" alt="TryHackMe" width="65" height="65" /> -->
     <!-- Platforms -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="65" height="65" />
 
