@@ -95,13 +95,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="65" height="65" />
     <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="65" height="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" width="65" height="65" />
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="65" height="65" />
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="65" height="65" />
-    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="65" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="65" height="65" />
   </div>
 </div>
 
